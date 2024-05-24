@@ -1,2 +1,2 @@
 # SutrahDigital
-An IoT-based rakaat counting system in the form of a sutrah. This system will emit an audible signal when the rakaat of the prayer is reached, or if the rakaat of the prayer is exceeded, it will detect using an obstacle sensor when the user is prostrating. This system has been integrated with Firebase and a mobile application using MIT App Inventor 2.
+A sutrah-integrated IoT system for counting prayer rakaats, equipped with sound notifications and prostration detection using an obstacle sensor. This system connects with Firebase and a mobile application based on MIT App Inventor 2, and utilizes an ESP32 microcontroller.
